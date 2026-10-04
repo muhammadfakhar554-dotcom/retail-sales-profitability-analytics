@@ -1,0 +1,14 @@
+# Raw dataset files
+data/raw/
+
+# Power BI temporary files
+*.tmp
+*.pbit
+
+# Python cache (if Python is used later)
+__pycache__/
+*.pyc
+
+# Operating system files
+.DS_Store
+Thumbs.db
